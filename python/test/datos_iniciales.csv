@@ -1,0 +1,4 @@
+cedula,nombre,cargo,sueldo,fechaIngreso,ano_mes,tipo_recibo,nombre_empleador,detalle_recibo_id
+12345678,Juan Perez,Desarrollador,50000,2024-01-15,2024-08,Sueldos,Empresa 1,1
+23456789,Maria Rodriguez,Analista,60000,2024-03-22,2024-08,Sueldos,Empresa 1,2
+34567890,Martin Rodriguez,Gerente,80000,2023-08-26,2024-08,Sueldos,Empresa 1,3
